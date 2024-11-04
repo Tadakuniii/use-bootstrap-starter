@@ -6,7 +6,7 @@ definePageMeta({
 })
 </script>
 <template>
-      
+      日本語食べます
   <Container margin="t-5">
     <HeroHeadingsDescription />
   </Container>
